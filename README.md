@@ -1,6 +1,6 @@
 # Groundwork test suite
 
-![tests](https://github.com/YOUR-USERNAME/groundwork-tests/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/amiah69742/Groundwork-tests/actions/workflows/tests.yml/badge.svg)
 
 Automated end-to-end tests for [Groundwork](app/index.html), a browser-based project planner.
 The suite drives a real Chromium browser with Playwright and checks the app the way a user
